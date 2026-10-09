@@ -1,0 +1,1 @@
+Wk3 · Investigate: how KIU students learn a skill they need when the university does not offer it in time · evidence: 00-foundation/problem-pool.md (Nikoloz N1-N3), 00-foundation/four-filters-scorecard.md · runner-up: how village wine reaches restaurants · owner: NTS
