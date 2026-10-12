@@ -8,9 +8,10 @@ Every real interview I asked or logged. Real means the person has the problem an
 
 | # | Log file | Interviewee (code name, role) | Date | My role (asker / logger) |
 |---|---|---|---|---|
-| | | | | |
+| 01 | [`01-discovery/interview-logs/01-student-kutaisi.md`](../../01-discovery/interview-logs/01-student-kutaisi.md) | Beka, KIU computer science student (backend) | 12 Oct 2026 | Asker and logger |
+| 02 | [`01-discovery/interview-logs/02-student-kutaisi.md`](../../01-discovery/interview-logs/02-student-kutaisi.md) | Ana, 3rd-year management student | 12 Oct 2026 | Asker and logger |
 
-**Status at the time of writing (Week 5, 12 October):** I have not yet conducted or logged a real interview. Our outreach list is in `01-discovery/outreach-tracker.md` (Nini, Gio, Beka, Luka, Giorgi, and the friend who took the outside C# course). We are booking interviews this week. I will ask in at least 2 and log others, and update this table with links as each log is committed.
+Conducted by me: 2. Links to later interviews will be added as each log is committed.
 
 ## 2. Pattern journal, Weeks 1 to 4
 

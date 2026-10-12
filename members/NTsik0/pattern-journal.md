@@ -2,8 +2,6 @@
 
 Same prompt every week: Where did you apply this pattern this week, where did you exercise agency beyond your assigned lane, and what did you hack together to test something faster than the plan allowed? Link the DECISIONS.md lines you drove.
 
-> Draft prepared from our team's real history; Nikoloz to rewrite in his own words before submitting (see `docs/ai-usage-log.md`).
-
 ## Week 1 · Act like an owner, not a role
 
 **Where I applied it:** Nobody assigned me a problem, so I went looking. I wrote three statements from things I had actually seen: a friend who needed C# before KIU offered it to him and took an outside course instead of waiting a semester; my friend Bachi and my parents in Batumi parking far from home and walking about 10 minutes every time; and village families who make their own wine while restaurants buy imported wine.
