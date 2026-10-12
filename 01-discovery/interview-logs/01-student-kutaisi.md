@@ -1,6 +1,6 @@
 # Interview 01 · CS student (backend), KIU · (code name: Beka)
 
-**Week:** 5 · **Date:** 12 October 2026, 17:00 · **Asker:** [NTS / GTS] · **Logger:** [NTS / GTS] · **Consent:** [yes; notes only]
+**Week:** 5 · **Date:** 12 October 2026, 17:00 · **Asker:** NTS · **Logger:** NTS · **Consent:** yes; notes only
 **Real or practice:** real
 
 **Context:** KIU computer science student who wants to start working in backend software development, and is looking for a job now. Took a funded (free) C# course at Comschool outside KIU, passed the exams and received a certificate. Has just signed up for TBC courses.
@@ -22,7 +22,7 @@
 **Frequency:** One completed outside course (C#); a second (TBC) just started.
 **Prediction check:** No. He did not say KIU was missing the skill. He took the course "in parallel with university" to deepen OOP skills he already had, and because he wants a job soon.
 **Surprise ★:** The driver is getting a job soon, not a gap in the KIU curriculum. The cost is time, not money: the course was free, but took about 200 hours. Finding a free course was itself work ("finally, at last, I found it"). He has never dropped a course and is already on his second.
-**Commitment:** Shared his story openly; [can we come back later? did he name anyone else to talk to?]
+**Commitment:** Said we can come back anytime we want.
 **Next:** Ask the next students what they needed the skill for (job, internship, a class) before asking where they learned it. Ask how long the search for a course took. Interviewer note: "Do you try to learn outside university?" is a yes/no question; use "Tell me about the last time you learned something outside the university" instead. The last question ("would you consider…") was hypothetical; keep only the past-tense part ("have you signed up for anything since?").
 
 Written within 24 hours.
