@@ -24,7 +24,7 @@ Same prompt every week: Where did you apply this pattern this week, where did yo
 
 **DECISIONS.md lines I drove:** line 1 (problem pick).
 
-## Week 3 · [pattern name from the Week 3 recording]
+## Week 3 · Kill your favorite idea
 
 **Where I applied it:** We committed our problem hypothesis before talking to anyone, so the commit date proves we did not write the prediction after seeing the answers. Our "we are wrong if" line: students do not describe, before we mention it, a specific time they needed a skill KIU was not teaching them yet.
 

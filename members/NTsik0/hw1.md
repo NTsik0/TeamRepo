@@ -22,7 +22,7 @@ Nobody assigned me a problem, so I went looking. I wrote three statements from t
 ### Week 2 · Evidence over opinion
 We scored our shortlist with the Four Filters. My favorite, village wine, scored 3 of 8 because we could not name five farmers or restaurant owners to talk to. Courses scored 8 and became our pick. We kept wine as runner-up because we care about it, and wrote the dissent into the scorecard. I set up the team repo and the semester structure. Instead of scoring reach from a feeling, I listed real names for each problem, and the names decided the score.
 
-### Week 3 · [pattern name]
+### Week 3 · Kill your favorite idea
 We committed our problem hypothesis before talking to anyone, so the commit date proves the prediction came first. I wrote the interview script in Georgian with English beside it, because a translated quote is already a paraphrase. Honestly, we fell behind this week: no real interviews by the end of Week 3.
 
 ### Week 4 · [pattern name]
