@@ -1,4 +1,4 @@
-# [Team name]
+# Make Sense?
 
 **Investigating:** how KIU students learn a skill they need when the university does not offer it in time
 **Team:** Nikoloz Tsikaridze (@NTsik0) · Guram Tsiklauri (@Gaaa-3)
