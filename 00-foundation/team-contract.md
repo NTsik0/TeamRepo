@@ -12,7 +12,7 @@ Accountabilities below say who makes sure something happens. They do not say who
 | Name | GitHub | Primary accountability | First outreach target (a real person) |
 |---|---|---|---|
 | Nikoloz Tsikaridze (NTS) | @NTsik0 | Build: repo, code, deployment · plus half of Delivery: milestone tags and submissions | Nini, KIU student, looks for online courses outside the curriculum |
-| Guram Tsiklauri (GTS) | @[Guram's GitHub username] | Discovery: interview quality, logs, synthesis · plus half of Delivery: deadlines and the outreach tracker | Beka, KIU student, looks for online courses outside the curriculum |
+| Guram Tsiklauri (GTS) | @Gaaa-3 | Discovery: interview quality, logs, synthesis · plus half of Delivery: deadlines and the outreach tracker | Beka, KIU student, looks for online courses outside the curriculum |
 
 Team of 2: each person carries one and a half accountabilities, as written above. Both of us ask in interviews and both of us log.
 
@@ -44,3 +44,5 @@ Committing this file is signing it. Each member adds their own row from their ow
 | Name | GitHub | Date |
 |---|---|---|
 | Nikoloz Tsikaridze | @NTsik0 | 2026-10-09 |
+| Guram Tsiklauri  | @Gaaa-3 | 2026-10-19 |
+
