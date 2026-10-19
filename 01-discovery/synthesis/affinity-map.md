@@ -2,7 +2,7 @@
 
 Every quote from every real log, grouped by what the quotes have in common. A cluster counts as a pattern only when it holds quotes from 2 or more different interviews.
 
-**Logs in this map:** 01 to 07. Re-sorted after logs 03 to 06 (18 October): the old "channels" cluster split in two, because three students named a course they had missed, which is a cost, not a channel.
+**Logs in this map:** 01 to 09 (08 and 09 asked by GTS). Re-sorted after logs 03 to 06 (18 October): the old "channels" cluster split in two, because three students named a course they had missed, which is a cost, not a channel.
 
 ## Pattern 1
 
@@ -33,7 +33,7 @@ Every quote from every real log, grouped by what the quotes have in common. A cl
 
 **Pattern:** Courses mostly reach students through a friend; nobody checks one place, and those who do not want to miss one re-check providers' sites daily.
 
-**Interviews behind it:** 01, 02, 03, 04, 05, 06, 07 (a friend in 01, 02, 03, 04, 05, 07; re-checking in 03, 04, 07)
+**Interviews behind it:** 01, 02, 03, 04, 05, 06, 07, 08, 09 (a friend in 01, 02, 03, 04, 05, 07, 08, 09; re-checking in 03, 04, 07)
 
 **Quotes:**
 - "უფასო კურსებს და ინტერნშიპებს ვეძებდი ინტერნეტში ყველგან, ლინკდინი, ჯიტა, უნივერსიტეტის რეკლამები.... და ბოლოს როგორც იქნა ვიპოვე ის." / "I was looking for free courses and internships everywhere online, LinkedIn, GITA, university ads... and finally, at last, I found it." (01)
@@ -41,15 +41,18 @@ Every quote from every real log, grouped by what the quotes have in common. A cl
 - "A friend of mine offered me to take the course together, we were checking tbc academy website frequently and than registered for the course." (03)
 - "a friend recommended it, so I looked into it. I registered, completed it successfully, and received a certificate." (01, follow-up 19 Oct)
 - "Friend sent link to me" (04)
+- "my friend told me about that opportunity" (08)
+- "I was searching on google, but couldn't find anything interesting I would have liked." (09)
+- "So, Finally my friend told me about EPAM courses and I attended them" (09)
 - "I wanted to get c# course for two years, but I couldn;t find it anywehere or where I found it it costed money. andabout on 2nd semesters end my friend told me about the course and I attended" (07)
 - "I wanted to get 2 courses I was checking the courses daily so I didnt miss it." (04)
 - First heard: from a friend in 03 and 05; Facebook / Instagram in 04; searching Google in 06. "I didn't search, it came to me" (04).
 
 ## Pattern 4
 
-**Pattern:** More than half the students have already missed a free course because they heard about it too late.
+**Pattern:** More than half the students have already missed a free course because they heard about it too late or could not act in time.
 
-**Interviews behind it:** 03, 05, 06, 07 (4 of 7; 01 and 04 said "Never")
+**Interviews behind it:** 03, 05, 06, 07, 08, 09 (6 of 9; 01 and 04 said "Never")
 
 **Quotes:**
 - "Do IT" (03): "I found out that there courses were online from my friend but it was a day late so I missed an oportunity" (03)
@@ -58,6 +61,8 @@ Every quote from every real log, grouped by what the quotes have in common. A cl
 - "under course, it said registration date expired yesterday" (05, follow-up 19 Oct)
 - "TBC Risk Academy" (06): "found from their website, but it was showing registration no more active" (06)
 - "well, I missed tbc course lately because while I checked their website time was already past registration" (07)
+- "I was in KIU Dorms, In the elevator, I saw QR code in the elevator and I was thinking 'should I scan it', there were people in, so I went out to go in my room, but then I realised I should Try my luck and scan qr to join the course but when I returned the lift was stuck on 4th floor and not working so I couldn;t scan it" (08)
+- "well, I missed some courses that uni was sending ads of because it was late" (09)
 - Said finding a course was hard before we asked: yes in 01 (follow-up), 05 and 07; no in 03 and 04.
 - Time from starting to look to signing up: more than a month (01 follow-up, 07); 1 to 7 days (05, 06).
 

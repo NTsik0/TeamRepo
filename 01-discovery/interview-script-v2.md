@@ -4,7 +4,7 @@ Starts from `interview-script-v1.md` and the questions used in logs 01 and 02. L
 
 ## Prediction at the top (Week 3 verdict, from `DECISIONS.md`)
 
-> Prediction "students do not describe, before we mention it, a specific time they needed a skill that KIU was not teaching them yet" verdict: killed (0 of 7 in their own words; 1 of 7 chose it from a list, log 07; 1 of 7 only after we asked, log 02).
+> Prediction "students do not describe, before we mention it, a specific time they needed a skill that KIU was not teaching them yet" verdict: killed (0 of 9 in their own words; 1 of 9 chose it from a list, log 07; 1 of 9 only after we asked, log 02).
 
 ## Kept from v1
 

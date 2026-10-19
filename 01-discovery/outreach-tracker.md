@@ -15,6 +15,8 @@ Real means has the problem and is not in this course. First names and roles only
 | Temuri, 2nd-year computer science student | Took a free TBC course | In person | Wk5, NTS | Yes | Sun 18 Oct, NTS asked and logged (log 05) |
 | Nino-E, economics master's student | Took a free Coursera course | In person | Wk5, NTS | Yes | Sun 18 Oct, NTS asked and logged (log 06) |
 | Cotne, 3rd-year computer science student | Took a free Comschool course | In person | Wk5, NTS | Yes | Mon 19 Oct, NTS asked and logged (log 07) |
+| Luka-1, KIU computer science student | Took an outside course; heard from a friend | Google Form | Wk5, GTS | Yes | Mon 19 Oct, GTS asked and logged (log 08) |
+| Lasha-1, KIU computer science student | Took an EPAM course; heard from a friend | Google Form | Wk5, GTS | Yes | Mon 19 Oct, GTS asked and logged (log 09) |
 | Cotne's brother, introduced in log 07 | Referred | | | | |
 | Gaga, introduced by Beka (log 01 follow-up) | Referred as someone who takes courses | | | | |
 | Giorgi, introduced by Nino-CS (log 03) | Referred as someone who takes courses | | | | |

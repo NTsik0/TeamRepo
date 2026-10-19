@@ -1,6 +1,6 @@
 # Patterns Analysis
 
-One section per pattern from `affinity-map.md`. Built from logs 01 to 07.
+One section per pattern from `affinity-map.md`. Built from logs 01 to 09.
 
 ## Pattern 1: Students take free outside courses to go deeper or get job-ready; almost none say KIU was missing the subject.
 
@@ -25,21 +25,21 @@ One section per pattern from `affinity-map.md`. Built from logs 01 to 07.
 
 ## Pattern 3: Courses mostly reach students through a friend; nobody checks one place, and those who do not want to miss one re-check providers' sites daily.
 
-**Interviews behind it:** 01, 02, 03, 04, 05, 06, 07
+**Interviews behind it:** 01, 02, 03, 04, 05, 06, 07, 08, 09
 
 1. Why does this happen? Each provider announces its own courses in its own place: LinkedIn, GITA, university ads (01); Facebook / Instagram (04); the TBC Academy website (03).
-2. Why that? No single place lists them, so students rely on whoever hears first (a friend in 01, 02, 03, 04, 05 and 07) or check every day themselves: "I was checking the courses daily so I didnt miss it" (04).
-3. Why that? Searching alone does not find free courses reliably: one student looked "for two years" until "my friend told me about the course" (07). Guess: the friend is just as dependent on luck.
+2. Why that? No single place lists them, so students rely on whoever hears first (a friend in 01, 02, 03, 04, 05, 07, 08 and 09: "my friend told me about that opportunity", 08) or check every day themselves: "I was checking the courses daily so I didnt miss it" (04).
+3. Why that? Searching alone does not find free courses reliably: one student looked "for two years" until "my friend told me about the course" (07); another "was searching on google, but couldn't find anything" until "Finally my friend told me about EPAM courses" (09). Guess: the friend is just as dependent on luck.
 
 **Root cause, one sentence:** Free courses are announced separately by each provider, so students depend on friends and repeated checking to hear about them in time.
 
 **Which answer is a guess:** Why 3. Next question: "How did your friend hear about it?"
 
-## Pattern 4: More than half the students have already missed a free course because they heard about it too late.
+## Pattern 4: More than half the students have already missed a free course because they heard about it too late or could not act in time.
 
-**Interviews behind it:** 03, 05, 06, 07
+**Interviews behind it:** 03, 05, 06, 07, 08, 09
 
-1. Why does this happen? They hear about a course after registration has closed: "it was a day late so I missed an oportunity" (03); "it was showing registration no more active" (06); "About a year before I missed another tbc course" (05); "while I checked their website time was already past registration" (07).
+1. Why does this happen? They hear about a course after registration has closed: "it was a day late so I missed an oportunity" (03); "it was showing registration no more active" (06); "About a year before I missed another tbc course" (05); "while I checked their website time was already past registration" (07). One saw the course advertised as a QR code in the KIU dorm elevator, hesitated, and when he came back "the lift was stuck on 4th floor and not working so I couldn;t scan it" (08). Another missed courses the university itself advertised: "I missed some courses that uni was sending ads of because it was late" (09).
 2. Why that? They hear through a friend, a feed or a search at a random moment, not when registration opens (Pattern 3: 03, 04, 05, 06). Even the student who checked the TBC Academy site "frequently" (03) missed "Do IT", because her friend told her a day late (03). The one student who never missed a course only avoided it by "checking the courses daily" (04).
 3. Why that? Guess: registration windows for free programs are short and announced once.
 
@@ -51,4 +51,4 @@ One section per pattern from `affinity-map.md`. Built from logs 01 to 07.
 
 **Strongest pattern:** Pattern 4, missed courses, explained by Pattern 3, scattered channels.
 
-**Why it is the strongest:** It is the only pattern with a cost students named themselves: four of seven missed a specific free course, three of them by a day or a closed registration page (03, 06, 07); three said finding a course was hard before we asked (01, 05, 07); and the one who never missed one had to check "daily" to avoid it (04). Patterns 1 and 2 describe what students do and what it costs in hours, but hold no complaint; Patterns 3 and 4 together have a root cause something could be built against.
+**Why it is the strongest:** It is the only pattern with a cost students named themselves: six of nine missed a free course, three of them by a day or a closed registration page (03, 06, 07), two after seeing a university advert too late or failing to act on it (08, 09); three said finding a course was hard before we asked (01, 05, 07); and the one who never missed one had to check "daily" to avoid it (04). Patterns 1 and 2 describe what students do and what it costs in hours, but hold no complaint; Patterns 3 and 4 together have a root cause something could be built against.
