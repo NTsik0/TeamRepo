@@ -1,6 +1,6 @@
 # Team Contract
 
-**Team name:** [team name: choose one together]
+**Team name:** Make Sense?
 **Date:** 9 October 2026 · PDFSE Fall 2026
 
 ## The rule (pre-written, sign under it)
