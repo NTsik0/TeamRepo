@@ -6,9 +6,18 @@ Real means has the problem and is not in this course. First names and roles only
 |---|---|---|---|---|---|
 | Nini, KIU student | Searches for and applies to online courses | | | | |
 | Gio, KIU student | Searches for and applies to online courses | | | | |
-| Beka, KIU student | Searches for and applies to online courses | | | | |
+| Beka, KIU student | Searches for and applies to online courses | In person | Wk5, NTS | Yes | Mon 12 Oct 17:00, NTS asked and logged (log 01) |
 | Luka, KIU student | Searches for and applies to online courses | | | | |
 | Giorgi, KIU student | Searches for and applies to online courses | | | | |
+| Ana, 3rd-year management student | Took a free TBC course | In person | Wk5, NTS | Yes | Mon 12 Oct, NTS asked and logged (log 02) |
+| Nino-CS, 3rd-year computer science student | Took free TBC, Coursera and Nebula AI courses | In person | Wk5, NTS | Yes | Sun 18 Oct, NTS asked and logged (log 03) |
+| Ana-B, 3rd-year business student | Took free TBC and RiHEI courses | In person | Wk5, NTS | Yes | Sun 18 Oct, NTS asked and logged (log 04) |
+| Temuri, 2nd-year computer science student | Took a free TBC course | In person | Wk5, NTS | Yes | Sun 18 Oct, NTS asked and logged (log 05) |
+| Nino-E, economics master's student | Took a free Coursera course | In person | Wk5, NTS | Yes | Sun 18 Oct, NTS asked and logged (log 06) |
+| Cotne, 3rd-year computer science student | Took a free Comschool course | In person | Wk5, NTS | Yes | Mon 19 Oct, NTS asked and logged (log 07) |
+| Cotne's brother, introduced in log 07 | Referred | | | | |
+| Gaga, introduced by Beka (log 01 follow-up) | Referred as someone who takes courses | | | | |
+| Giorgi, introduced by Nino-CS (log 03) | Referred as someone who takes courses | | | | |
 | Nikoloz's friend who took the outside C# course | The exact story in our problem pool (N1) | | | | |
 
 ## The message (adapt it, never paste it)

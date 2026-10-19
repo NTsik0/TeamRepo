@@ -29,4 +29,6 @@ Committed before our first real interview. The commit date is our proof.
 - [x] The "we are wrong if" line is copied to the top of our script and our log template
 
 ## After interviews (fill in Week 3)
-**Verdict:** [confirmed / weakened / killed] · **Evidence:** [links to logs] · Record the verdict in `DECISIONS.md`.
+**Verdict:** killed · **Evidence:** `interview-logs/01-student-kutaisi.md` to `07-student-kutaisi.md`: 0 of 7 students raised the predicted problem in their own words; when reasons were listed, 1 of 7 chose "the university did not teach it then" among four others (07), and 1 of 7 agreed only when we asked directly (02). Students named going deeper or getting job-ready instead (01 to 07). What the evidence promoted instead: free courses heard about too late; 4 of 7 named one they missed (03, 05, 06, 07). Recorded in `DECISIONS.md` as line 2.
+
+Week 3 verdict: killed. Evidence: logs 01 to 07. See DECISIONS.md.
