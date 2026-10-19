@@ -38,6 +38,14 @@
 **11. შეიძლება დაგიკავშირდეთ, როცა რამე გვექნება საჩვენებელი?** *Can we come back when we have something to show you?*
 - Yes: "come back anytime you want."
 
+## Follow-up · 19 October 2026 · asked by NTS with interview form v2 · consent: yes
+
+- **How he found the Comschool course (Q11):** "a friend recommended it, so I looked into it. I registered, completed it successfully, and received a certificate."
+- **A free course he heard about too late or almost missed (Q12):** "Never"
+- **Who else should we talk to:** "GAGA"
+- **Closed answers:** first heard from a friend · time from looking to signing up: more than a month ★ · why: to get a job or internship, to go deeper than the university course, for the certificate · cost: free · total: 100 to 200 hours.
+- **Said finding a course was hard?** Yes, before we asked.
+
 ## Summary
 
 **Workaround:** Searches LinkedIn, GITA and university ads for free courses and internships; took a funded C# course at Comschool; uses AI to understand university slides; now enrolled in TBC courses.
@@ -45,7 +53,7 @@
 **Frequency:** One completed outside course (C#); a second (TBC) just started.
 **Prediction check:** No. He did not say KIU was missing the skill. He took the course "in parallel with university" to deepen OOP skills he already had, and because he wants a job soon.
 **Surprise ★:** The driver is getting a job soon, not a gap in the KIU curriculum. The cost is time, not money: free, but about 200 hours. Finding a free course was itself work ("finally, at last, I found it").
-**Commitment:** Said we can come back anytime we want.
+**Commitment:** Said we can come back anytime we want. In the follow-up (19 Oct) he suggested Gaga as the next person to talk to.
 **Next:** Ask the next students what they needed the skill for before asking where they learned it, and how long the search took.
 
 Written within 24 hours.
