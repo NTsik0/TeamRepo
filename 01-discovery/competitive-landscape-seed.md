@@ -7,7 +7,7 @@ Built only from our real logs. Every row names the log it came from.
 | Workaround or alternative (as they named it) | The job it does for them | Logs that mention it | What it fails at, in their words (quote + log number) |
 |---|---|---|---|
 | A friend who sends the course | Finds the course and passes it on | 01, 02, 03, 04, 05, 07 | "I found out that there courses were online from my friend but it was a day late so I missed an oportunity" (03) |
-| Checking provider sites daily | Catching registration when it opens | 03, 04, 06, 07 | "I was checking the courses daily so I didnt miss it." (04) Works only while you keep doing it; "found from their website, but it was showing registration no more active" (06); "while I checked their website time was already past registration" (07) |
+| Checking provider sites daily | Catching registration when it opens | 03, 04, 06, 07 | "I was checking the courses daily so I didnt miss it." (04) Works only while you keep doing it; "found from their website, but it was showing registration no more active" (06); "while I checked their website time was already past registration" (07); "under course, it said registration date expired yesterday" (05) |
 | TBC courses and academies | Free, structured courses with a schedule | 01, 02, 03, 04, 05, 07 | "About a year before I missed another tbc course" (05); "TBC Risk Academy" missed (06) |
 | Coursera / Udemy | Free self-paced courses, found any time | 03, 06 | "It was fine." (06) No complaint recorded. |
 | Searching Google | Finding a course for one specific skill | 06 | "I was looking for an excel course to deepen my knowledge, and I found it on Coursera. It was fine." (06) No complaint. |

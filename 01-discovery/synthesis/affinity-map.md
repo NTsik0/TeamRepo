@@ -53,7 +53,9 @@ Every quote from every real log, grouped by what the quotes have in common. A cl
 
 **Quotes:**
 - "Do IT" (03): "I found out that there courses were online from my friend but it was a day late so I missed an oportunity" (03)
-- "About a year before I missed another tbc course" (05); interviewer's note: he was on the TBC website but missed it by one day (05)
+- "About a year before I missed another tbc course" (05)
+- "I have visited the website but it was like a day or two days late so I registration was cancelled" (05, follow-up 19 Oct)
+- "under course, it said registration date expired yesterday" (05, follow-up 19 Oct)
 - "TBC Risk Academy" (06): "found from their website, but it was showing registration no more active" (06)
 - "well, I missed tbc course lately because while I checked their website time was already past registration" (07)
 - Said finding a course was hard before we asked: yes in 01 (follow-up), 05 and 07; no in 03 and 04.
