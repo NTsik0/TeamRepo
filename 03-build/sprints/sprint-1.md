@@ -10,9 +10,9 @@ A story is done when it is merged to `main`, deployed at the public Vercel URL, 
 
 | Initials | Hours free | When, specifically |
 |---|---|---|
-| NTS | ? | ? |
-| GTS | ? | ? |
-| **Total** | **?** | |
+| NTS | 12 | Midterm weeks 1 and 2: Mon and Tue 08:00 to 09:30 (3 h a week, 6 h). Week after midterms: Mon, Tue and Fri 08:00 to 10:00 (6 h) |
+| GTS | 12 | Same slots as NTS; we work together |
+| **Total** | **24** | Stories below add up to 14 h, leaving 10 h for review walks, test sessions and fixes |
 
 ## The board
 
