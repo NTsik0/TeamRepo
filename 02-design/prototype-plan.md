@@ -6,7 +6,7 @@ Built from `01-discovery/problem-statement.md`. We build it in Lab 5.
 
 > We assume that a student who is told a free course has just opened registration will open its sign-up page that same day, instead of waiting for a friend to pass it on or re-checking the provider's site later.
 
-**Why this one is riskiest:** Today courses reach students through friends and repeated checking (01, 02, 03, 04, 05, 07), and 4 of 7 have missed one because they heard too late (03, 05, 06, 07). If students do not act on an "opened today" notice from us, faster news changes nothing. No log tests this yet, which is why the prototype must.
+**Why this one is riskiest:** Today courses reach students through friends and repeated checking (01, 02, 03, 04, 05, 07, 08, 09), and 6 of 9 have missed one because they heard too late (03, 05, 06, 07, 08, 09). If students do not act on an "opened today" notice from us, faster news changes nothing. No log tests this yet, which is why the prototype must.
 
 ## 2. The one action
 
