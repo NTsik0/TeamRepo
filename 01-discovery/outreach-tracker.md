@@ -17,7 +17,9 @@ Real means has the problem and is not in this course. First names and roles only
 | Cotne, 3rd-year computer science student | Took a free Comschool course | In person | Wk5, NTS | Yes | Mon 19 Oct, NTS asked and logged (log 07) |
 | Luka-1, KIU computer science student | Took an outside course; heard from a friend | Google Form | Wk5, GTS | Yes | Mon 19 Oct, GTS asked and logged (log 08) |
 | Lasha-1, KIU computer science student | Took an EPAM course; heard from a friend | Google Form | Wk5, GTS | Yes | Mon 19 Oct, GTS asked and logged (log 09) |
+| Gio-2, 2nd-year computer science student (not the Gio above) | Took a free Coursera Java course; heard from a friend | In person | Wk7, NTS | Yes | Mon 2 Nov, NTS asked and logged (log 10) |
 | Cotne's brother, introduced in log 07 | Referred | | | | |
+| Niko, introduced by Gio-2 (log 10) | Took the same Coursera course | | | | |
 | Gaga, introduced by Beka (log 01 follow-up) | Referred as someone who takes courses | | | | |
 | Giorgi, introduced by Nino-CS (log 03) | Referred as someone who takes courses | | | | |
 | Nikoloz's friend who took the outside C# course | The exact story in our problem pool (N1) | | | | |
