@@ -34,3 +34,5 @@ Committed before our first real interview. The commit date is our proof.
 Week 3 verdict: killed. Evidence: logs 01 to 07. See DECISIONS.md.
 
 Update after logs 08 and 09 (19 October): still killed. Neither raised a missing KIU subject in his own words (0 of 9); log 09 missed courses the university itself advertised. See DECISIONS.md line 4.
+
+Update after log 10 (2 November): still killed. He never mentioned KIU or a missing subject (0 of 10). See the Wk7 line in DECISIONS.md.

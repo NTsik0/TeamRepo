@@ -24,7 +24,7 @@ Revenue is empty on purpose: every course is free, and nothing is paid for befor
 
 - One name per event, one spelling, lowercase with underscores.
 - `student_id` on every event. It is PostHog's anonymous id for that phone, made up by the app. No names, emails, phone numbers or KIU ids anywhere in analytics.
-- The north star event is fired for the student, because the student receives the value: reaching the sign-up page before registration closes is the thing 6 of 9 missed (logs 03, 05, 06, 07, 08, 09).
+- The north star event is fired for the student, because the student receives the value: reaching the sign-up page before registration closes is the thing 7 of 10 missed (logs 03, 05, 06, 07, 08, 09, 10).
 - `student_opens_signup_page` fires from the server, not the browser, because the browser leaves the page for the provider's site on the same tap and a browser event can be lost on the way out.
 
 ## Reconcile plan
