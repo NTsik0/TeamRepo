@@ -19,4 +19,6 @@ Free courses with registration open right now, and when each one closes. The jou
 | `db/schema.sql` | Tables, the insert for a new course, the reconcile query | |
 | `instrumentation-client.ts`, `next.config.ts` | PostHog in the browser, and the `/ingest` proxy | |
 
+Analytics: PostHog US cloud (us.posthog.com).
+
 Deploy: Vercel, Root Directory `app`, the five variables from `.env.example`. Steps in `Lab-6/setup/SHIP-STACK-SETUP.md` (course repo).
