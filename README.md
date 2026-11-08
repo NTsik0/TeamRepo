@@ -6,9 +6,9 @@
 
 | Link | Status |
 |---|---|
-| Prototype | coming Week 5 |
-| Live product | coming Week 7 |
-| Analytics dashboard (PostHog) | coming Week 7 |
+| Prototype | https://team-repo-whfx.vercel.app (the first deployed screen is our prototype; see `DECISIONS.md`, prototype track) |
+| Live product | https://team-repo-whfx.vercel.app |
+| Analytics dashboard (PostHog) | events live since 8 November; dashboard link coming Week 7 |
 | 12-month model | coming Week 12 |
 | Pitch deck | coming Week 13 |
 | One-pager | coming Week 15 |
