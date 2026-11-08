@@ -35,3 +35,5 @@ Before we believe the dashboard, we count the north star event a second way.
 **How it would fail:** never fires: the `/go/[id]` route redirects before `posthog.flush()` finishes, or `POSTHOG_KEY` is missing in Vercel, so the redirect still works and nobody notices.
 **The check that would catch it:** every tap also writes a row to the `signup_clicks` table. Count rows in `signup_clicks` for the same 7 days (`select count(*) from signup_clicks where clicked_at > now() - interval '7 days';`) and compare with the PostHog count of `student_opens_signup_page`. They must be equal.
 **Who runs the check in Week 7:** NTS
+
+**First run, 8 November 2026 (team test taps, not testers):** PostHog showed 3 `student_opens_signup_page` events from `posthog-node`; `select count(*) from signup_clicks;` returned 3. They match. The same anonymous `student_id` appears on the browser events and the server event, so one student's journey joins up. These 3 are our own taps and are left out of the north star.

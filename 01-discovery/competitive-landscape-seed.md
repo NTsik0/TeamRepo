@@ -18,6 +18,8 @@ Built only from our real logs. Every row names the log it came from.
 | Paid courses | The C# course he could find, but at a price | 07 | "where I found it it costed money." (07) Rejected because of cost. |
 | Doing nothing new | No new course since the last one | 02 | "No." (02, asked whether she signed up for anything since) |
 
+**Seen on a provider's own page (not an interview), 8 November 2026:** TBC IT Academy opened registration for its free iOS Development course (130 hours) around 5 November; the course page gives no registration deadline and no start date, only a sign-up form. A student cannot tell from the provider itself how long they have, which is sentence 5 of our problem statement. Source: https://tbcbank.ge/en/tbc-education/it-academy/ios-development
+
 ## The strongest incumbent
 
 A friend passing the course on: it appears in eight of nine logs (01, 02, 03, 04, 05, 07, 08, 09), it costs nothing, and students trust it, yet it is luck-based: one friend's message came "a day late" (03), and another student only heard after two years of looking (07). The only reliable alternative students named is checking sites daily (04), which takes constant effort. Anything we try has to reach a student before the friend does, at the moment registration opens; it does not have to beat TBC, which students already like (01 to 05).
