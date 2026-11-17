@@ -8,7 +8,7 @@
 |---|---|
 | Prototype | https://team-repo-whfx.vercel.app (the first deployed screen is our prototype; see `DECISIONS.md`, prototype track) |
 | Live product | https://team-repo-whfx.vercel.app |
-| Analytics dashboard (PostHog) | events live since 8 November; dashboard link coming Week 7 |
+| Analytics dashboard (PostHog) | https://us.posthog.com/shared/zANPl17hWYIWHzR_sP2TmomlglNxRA (north star `student_opens_signup_page`, last 30 days; events live since 8 November) |
 | 12-month model | coming Week 12 |
 | Pitch deck | coming Week 13 |
 | One-pager | coming Week 15 |
