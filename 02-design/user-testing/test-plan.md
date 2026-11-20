@@ -24,16 +24,15 @@ The test itself was written in Lab 4 and is frozen. This file adds the people, t
 
 ## Testers
 
-All five from our ICP: KIU students who take free outside courses. None in this course. Code names only; real names and numbers stay in our Discord.
+All five from our ICP: KIU students who take free outside courses. None in this course. Code names only: the names below are the nicknames we call them by, not their real names; real names and numbers stay in our Discord.
 
 | # | Code name | Role (as in our ICP) | Why they fit the ICP | Session runner (asks) | Session logger (writes) | Target day | Status (messaged / booked / done) |
 |---|---|---|---|---|---|---|---|
-| 1 | Temuri | 2nd-year computer science student | Log 05. Missed a TBC course a year ago; said finding courses was hard before we asked | NTS | GTS | first week after midterms | not yet |
-| 2 | Nino-CS | 3rd-year computer science student | Log 03. Re-checked the TBC Academy site and still missed "Do IT" by a day | NTS | NTS | 17 Nov | done (session 2) |
-| 3 | Giorgi | KIU student | New; introduced by Nino-CS in log 03 as someone who takes courses | NTS | GTS | first week after midterms | not yet |
-| 4 | Nini | KIU student | New; searches for and applies to online courses (outreach tracker) | GTS | NTS | first week after midterms | not yet |
-| 5 | Gio | KIU student | New; searches for and applies to online courses (outreach tracker) | NTS | NTS | 17 Nov | done (session 3) |
-| 6 | Beka | KIU student | New; takes free outside courses, applied to a TBC IT Academy course in the week before the test | NTS | NTS | 17 Nov | done (session 1) |
+| 1 | Nini | KIU student | Searches for and applies to online courses (outreach tracker); same person as Nino-CS in log 03, who re-checked the TBC Academy site and still missed "Do IT" by a day | NTS | NTS or GTS (joint call, one each) | 20 Nov | done (session 1) |
+| 2 | Gaga | KIU student | Looks for free courses; was searching for one at the time of the test | NTS | NTS or GTS (joint call, one each) | 20 Nov | done (session 2) |
+| 3 | BeKa | KIU student | Takes free outside courses; applied to a TBC IT Academy course in November | NTS | NTS | 20 Nov | done (session 3) |
+| 4 | Anushki | KIU student | Looks for free courses | NTS | NTS | 20 Nov | done (session 4) |
+| 5 | Leo | KIU student | Looks for free courses | NTS | NTS | 20 Nov | done (session 5) |
 
 At least three rows must be "messaged" or "booked" before this file is final.
 
