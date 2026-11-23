@@ -67,7 +67,7 @@ Sum: 4 of 14 hours. The other ten are held for whatever the field week breaks, a
 |---|---|---|---|---|
 | Nini, KIU student | Usability session 1 (20 Nov) | Instagram or Discord message | NTS, Mon 23 Nov | Yes, 23 Nov 21:01, phone, came in from Instagram: list only so far (recognised as returning from 20 Nov) |
 | Gaga, KIU student | Usability session 2 | Instagram or Discord message | NTS, Mon 23 Nov | Yes, 23 Nov ~20:45, desktop: list, CS50x card; no sign-up page |
-| BeKa, KIU student | Usability session 3 | Instagram or Discord message | NTS, Mon 23 Nov | Not yet (23 Nov, 21:10) |
+| BeKa, KIU student | Usability session 3 | Instagram or Discord message | NTS, Mon 23 Nov | Yes, 23 Nov 21:22, phone: list, DA&QE card, SAP card, sign-up page (EPAM Modern SAP Development, 21:22:51), back to list, SAP card again, shared a course 3 times |
 | Anushki, KIU student who looks for free courses | Usability session 4 | Instagram or Discord message | NTS, Mon 23 Nov | Yes, 23 Nov 20:50: list, DA&QE card, sign-up page (EPAM DA&QE), back to list, CS50x card, shared a course |
 | Leo, KIU student who looks for free courses | Usability session 5 | Instagram or Discord message | NTS, Mon 23 Nov | Not yet (23 Nov, 21:10) |
 
