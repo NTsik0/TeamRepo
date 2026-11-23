@@ -4,6 +4,8 @@ The smallest complete user journey that tests whether the product creates value.
 
 **Value hypothesis under test:** A student who sees in one place which free courses have registration open right now, with the closing date, will reach the sign-up page before registration closes, instead of hearing about it a day late from a friend (problem statement, sentences 2 and 5; logs 03, 05, 06, 07, 08, 09).
 
+**Validation status (20 November 2026):** steps 1 to 3 passed with five testers (`02-design/user-testing/usability-findings.md`); steps 4 (share) and 5 (come back) are built but not yet tested with real people.
+
 **The one person walking this journey:** Sandro, a KIU computer science student who takes free outside courses on top of his degree (`00-foundation/icp.md`).
 
 ## The journey

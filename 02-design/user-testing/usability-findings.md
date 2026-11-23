@@ -109,6 +109,8 @@ PostHog person: `04ec664c`.
 
 **Times to the sign-up page:** 0:19, 0:24, 0:33, 0:36, 0:38. All under the 90-second limit.
 
+**What this round shows, and what it does not:** it supports steps 1 to 3 of the journey (open the list, open a card, reach the provider's sign-up page), which is where the value hypothesis is tested. It does not test steps 4 and 5. Nobody was asked to share, and the only return was BeKa going back to the list 3 seconds after the sign-up page, not a return days later. Retention ("New" label, `student_returns_to_course_list`) is still unvalidated and needs its own follow-up.
+
 **Not counted:** `fe932f7a` (NTS's PC, 17:36:57, our own test of the new list).
 
 **What we heard more than once:**

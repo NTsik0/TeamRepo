@@ -85,3 +85,7 @@ Before the first test session: at least five real free courses with registration
 ## Slip rule
 
 Written now, obeyed later. If S5 is not done by the evening before the Week 7 lab, the "New" label and `student_returns_to_course_list` move to Sprint 2; S3 (the sign-up tap, its `signup_clicks` row and `student_opens_signup_page`) and S6 (deployed with events in PostHog) stay no matter what, because without them the value does not land and the gate fails.
+
+## What actually happened (added 22 November 2026)
+
+The owners above are the plan, kept as written. In practice NTS implemented S2 (course card), S4 (share) and S5 ("New" label and `student_returns_to_course_list`) together with S1 and S3, in one commit: `74ddafe`, 30 October. S7 (real courses in the database) was also done by NTS: the iOS Development course on 8 November and, after it closed on 19 November, CS50x and two EPAM Campus courses on 20 November, each checked on the provider's own page. S4 and S5 have not yet been walked by a reviewer.
