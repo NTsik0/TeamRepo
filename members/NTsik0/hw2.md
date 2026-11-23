@@ -8,7 +8,8 @@
 | MVP boundary, architecture and Sprint 1 plan, with real hours | Lab 6 | [31b0531](https://github.com/NTsik0/TeamRepo/commit/31b0531), [213c247](https://github.com/NTsik0/TeamRepo/commit/213c247) | n/a | GTS read it |
 | The app: open-courses list, course card, "Go to sign-up" redirect that writes a `signup_clicks` row and fires the north star from the server, share, "New" label | S1, S2, S3, S4, S5 | [74ddafe](https://github.com/NTsik0/TeamRepo/commit/74ddafe) | Yes | GTS walked S1 to S5 on his phone on 23 Nov (NTS's hotspot, not our Wi-Fi); NTS saw every event in PostHog Activity. S1 to S3 also by five testers on 20 Nov (`02-design/user-testing/usability-findings.md`) |
 | Deploy on Vercel, PostHog pointed to US cloud, gate recorded | S6, rungs 1 to 4 | [6c47a00](https://github.com/NTsik0/TeamRepo/commit/6c47a00), [04d399f](https://github.com/NTsik0/TeamRepo/commit/04d399f), [dc0e793](https://github.com/NTsik0/TeamRepo/commit/dc0e793), [0953c38](https://github.com/NTsik0/TeamRepo/commit/0953c38) | Yes | Reconcile on 8 Nov: 3 in PostHog = 3 rows in `signup_clicks` (our own test taps); again on 23 Nov after GTS's walk: 21 = 21 (`03-build/analytics/event-schema.md`) |
-| Public PostHog dashboard with the north star trend | Rung 5 | [9981984](https://github.com/NTsik0/TeamRepo/commit/9981984) | Yes | Opened without a login in a private window |
+| Public PostHog dashboard: north star trend, then journey funnel and retention tiles on 23 Nov | Rung 5 | [9981984](https://github.com/NTsik0/TeamRepo/commit/9981984), [c5ec2bc](https://github.com/NTsik0/TeamRepo/commit/c5ec2bc) | Yes | Opened without a login in a private window |
+| Lab 7 gate: `Live` column and gate reconcile (21 = 21) in the event schema, Sprint 2 with the field week, first Monday look | R1, R2, F1, F2 | [c5ec2bc](https://github.com/NTsik0/TeamRepo/commit/c5ec2bc), [68f62bd](https://github.com/NTsik0/TeamRepo/commit/68f62bd) | Yes | GTS walked; NTS read PostHog and ran both counts |
 | Interview log 10 and the updated synthesis | Discovery | [6a55151](https://github.com/NTsik0/TeamRepo/commit/6a55151), [cdbb697](https://github.com/NTsik0/TeamRepo/commit/cdbb697) | n/a | GTS read it |
 | Five prototype test sessions on Discord screen share, timed against PostHog, and the test plan | Test plan, sessions 1 to 5 | [0d84220](https://github.com/NTsik0/TeamRepo/commit/0d84220) | n/a | GTS logged one tester on the joint call |
 
@@ -57,6 +58,10 @@ Log 10 is the first evidence for a reminder; it is one log, so alerts stay on th
 > Wk7 · Week 7 gate passed: app live at https://team-repo-whfx.vercel.app with one real course (TBC IT Academy iOS Development), north star student_opens_signup_page firing from the server; reconcile matches (3 in PostHog = 3 rows in signup_clicks, our own test taps) · evidence: README.md, 03-build/analytics/event-schema.md (Reconcile plan), app/app/go/[id]/route.ts · owner: NTS
 
 The counts were our own taps, not real students; the five test sessions on 20 November are the first real ones.
+
+> Wk7 · Gate passed again after the walk: live at https://team-repo-whfx.vercel.app, GTS walked all five steps on his phone on 23 Nov and all five events are Live, north star firing from production, PostHog 21 = database 21 (8 to 23 Nov); follows the Wk7 gate line above (8 Nov, 3 = 3, team taps only) · evidence: README links, 03-build/analytics/event-schema.md (Gate reconcile), 03-build/sprints/sprint-2.md (The gate) · owner: NTS
+
+The evidence is GTS's walk on 23 November and the two counts, PostHog and `signup_clicks`, in the gate reconcile block of the event schema.
 
 ## 4. My person this week
 
