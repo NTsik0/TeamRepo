@@ -84,3 +84,5 @@ Written before the week starts. Never edited afterwards; Lab 8 reads it as writt
 **We are wrong if:** fewer than 3 `student_opens_signup_page` events from real people between 23 Nov and Lab 8.
 
 **Mid-week look:** NTS opens the public dashboard every Monday and GTS every Wednesday, and each writes one line here: what the counts are and one thing we change because of them, or nothing.
+
+- 2026-11-23 20:05 · GTS walked all five steps on a phone (Chrome, NTS hotspot, plain URL). 21 = 21 on the reconcile (PostHog = signup_clicks, 8–23 Nov). Nothing to change: the pipeline matches.
