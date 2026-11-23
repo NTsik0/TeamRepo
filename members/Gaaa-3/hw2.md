@@ -1,25 +1,23 @@
-# HW2 · Guram Tsiklauri (@Gaaa-3) · team NTS-GTS
+# Homework 2 · Guram Tsiklauri (@Gaaa-3) · Make Sense?
 
 ## 1. Ship report
 
-| What I did this week | Evidence |
-|---|---|
-| Walked all 5 steps of the MVP on a phone (R1), 23 Nov 2026, 20:05, Chrome, on NTS's hotspot: opened the plain URL (no `?src=`), opened a course card, tapped "Go to sign-up", shared a course, came back to the list. | [sprint-2.md Mid-week look](https://github.com/NTsik0/TeamRepo/blob/9de45db/03-build/sprints/sprint-2.md) |
-| Pushed the Wednesday dashboard look to `sprint-2.md` (F2). | [9de45db](https://github.com/NTsik0/TeamRepo/commit/9de45db) |
-| Wrote interview logs 08 and 09. | [08-student-kutaisi.md](https://github.com/NTsik0/TeamRepo/blob/main/01-discovery/interview-logs/08-student-kutaisi.md) · [09-student-kutaisi.md](https://github.com/NTsik0/TeamRepo/blob/main/01-discovery/interview-logs/09-student-kutaisi.md) |
-| Reviewed NTS's reconcile plan and the dashboard tiles (R2). | [event-schema.md · Reconcile plan](https://github.com/NTsik0/TeamRepo/blob/main/03-build/analytics/event-schema.md) |
+| What | Story or rung | Commit link | Live? | Walked or checked by |
+|---|---|---|---|---|
+| Walked all 5 steps of the MVP on my phone — 23 Nov 2026, 20:05, Chrome, on NTS's hotspot, plain URL (no `?src=`): list, course card, "Go to sign-up", share, return. | R1 · walked on phone | [9de45db](https://github.com/NTsik0/TeamRepo/commit/9de45db) | Yes — all five events Live in PostHog, north star firing from production | GTS walked; NTS read each event in PostHog Activity aloud |
+| Wednesday dashboard look — counts on the public dashboard and one thing to change, or nothing. | F2 · dashboard look | [pending 25 Nov commit] | — | GTS |
 
-Least sure works: the "New" label. No course was added between my two visits, so the label never appeared and I have not seen that path work end to end.
+**Least sure works:** the "New" label. No course was added between my two visits, so the label never appeared and I have not seen that path work end to end. I will know by Lab 8: add one course in Neon between two visits to the list on the same phone, then check that `student_returns_to_course_list` fires with `new_since_last_visit > 0` in PostHog and that the "New" label shows on the second load.
 
-Not my story: NTS was watching PostHog during the walk. The 21 = 21 reconcile count and the dashboard tile numbers are his observation, not mine.
+**Beyond my assigned story:** I resolved the merge conflict on `03-build/sprints/sprint-2.md` myself — kept both NTS's Monday line and my walk line, rather than asking NTS to do it ([1c3ebf6](https://github.com/NTsik0/TeamRepo/commit/1c3ebf6)).
 
-## 2. Pattern journal, Weeks 5–7
+## 2. Pattern journal, Weeks 5–7 (written after the fact)
 
-**Week 5 · One metric that matters.** I wrote logs 08 and 09 this week. Lasha missed university-advertised courses because he heard about them late, and Luka saw a course QR code in the dorm lift and missed the course when the lift broke. Both described the same shape: the course was there, and the information did not reach them in time. That is why the north star in `event-schema.md` is `student_opens_signup_page` — the moment that matters is arriving at the sign-up page while registration is still open, not seeing the list.
+**Week 5 · One metric that matters.** The north star in `03-build/analytics/event-schema.md` is `student_opens_signup_page`, fired from the server in `/go/[id]` because the browser leaves for the provider on the same tap. The metric follows from the evidence — 7 of 10 students missed a free course they wanted, and the reason was never that the course was missing, it was that they found out too late. What makes it a real metric and not just a count is the reconcile plan: `signup_clicks` rows must equal the PostHog count for the same window, or the number is untrustworthy.
 
-**Week 6 · Smallest complete journey.** I reviewed NTS's reconcile plan in `03-build/analytics/event-schema.md` and the dashboard tiles. The plan says every tap on "Go to sign-up" writes a row to `signup_clicks`, and the PostHog count of `student_opens_signup_page` must match that row count for the same seven days. The second count exists because if the PostHog key is missing in Vercel, the redirect still works and nobody notices — the reconcile is what catches it.
+**Week 6 · Smallest complete journey.** `03-build/mvp-boundary.md` is Sandro's five steps and nothing more. My part was reviewing the reconcile plan in `03-build/analytics/event-schema.md` and the dashboard tiles: every "Go to sign-up" tap writes a row to `signup_clicks`, and the PostHog count must match it — because if the PostHog key is missing in Vercel, the redirect still works and nobody notices. The cut list is the discipline: search box, accounts, alerts all out, each with a "comes back when".
 
-**Week 7 · Ship to learn.** I walked all five steps of `mvp-boundary.md` on my phone: plain URL, course card, "Go to sign-up", share, and return to the list. The happy path worked. What did not get exercised is the "New" label — no course was added between my two visits, so I have no evidence the label appears. That is the gap I would close before the next test session: add a course in Neon between two visits and confirm the label shows on the second load.
+**Week 7 · Ship to learn.** The gate in `03-build/sprints/sprint-1.md` is deployed URL plus north star firing in PostHog, and "done" means walked on a phone by the teammate who did not build it. I walked all five steps: plain URL, card, "Go to sign-up", share, return. The happy path worked. What did not get exercised is the "New" label — no course was added between my two visits, so I have no evidence it works. That is the gap I would close before the next test.
 
 ## 3. My DECISIONS line
 
@@ -27,4 +25,4 @@ Not my story: NTS was watching PostHog during the walk. The 21 = 21 reconcile co
 
 ## 4. Field-week person
 
-I followed up with BeKa (KIU student, usability session 3) on 23 Nov by Instagram message, asking whether the production link NTS sent reached him and how it got to him. As of writing his reply is pending; if it arrives before the HW2 deadline I will replace this paragraph with what he says, and either way I will bring his answer to Lab 8 for the "Opened?" column in `sprint-2.md`.
+Leo, KIU student who looks for free courses (code name Leo, usability session 5). The link reached him through NTS's Instagram/Discord message on Mon 23 Nov, the same message that went to the other four testers. As of 23 Nov 21:10 his "Opened?" cell in `sprint-2.md` is "Not yet", so the link has reached him but he has not opened it; I followed up with him on 23 Nov to ask whether he had seen it. I will fill his "Opened?" cell with his answer before Lab 8.
