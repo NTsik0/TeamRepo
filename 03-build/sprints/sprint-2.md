@@ -65,11 +65,11 @@ Sum: 4 of 14 hours. The other ten are held for whatever the field week breaks, a
 
 | Code name and role | Log or session they come from | How the link reaches them | Sent by, and by when | Opened? (fill in during the week) |
 |---|---|---|---|---|
-| Nini, KIU student | Usability session 1 (20 Nov) | Instagram or Discord message | NTS, Mon 23 Nov | |
-| Gaga, KIU student | Usability session 2 | Instagram or Discord message | NTS, Mon 23 Nov | |
-| BeKa, KIU student | Usability session 3 | Instagram or Discord message | NTS, Mon 23 Nov | |
-| Anushki, KIU student who looks for free courses | Usability session 4 | Instagram or Discord message | NTS, Mon 23 Nov | |
-| Leo, KIU student who looks for free courses | Usability session 5 | Instagram or Discord message | NTS, Mon 23 Nov | |
+| Nini, KIU student | Usability session 1 (20 Nov) | Instagram or Discord message | NTS, Mon 23 Nov | Yes, 23 Nov 21:01, phone, came in from Instagram: list only so far (recognised as returning from 20 Nov) |
+| Gaga, KIU student | Usability session 2 | Instagram or Discord message | NTS, Mon 23 Nov | Yes, 23 Nov ~20:45, desktop: list, CS50x card; no sign-up page |
+| BeKa, KIU student | Usability session 3 | Instagram or Discord message | NTS, Mon 23 Nov | Not yet (23 Nov, 21:10) |
+| Anushki, KIU student who looks for free courses | Usability session 4 | Instagram or Discord message | NTS, Mon 23 Nov | Yes, 23 Nov 20:50: list, DA&QE card, sign-up page (EPAM DA&QE), back to list, CS50x card, shared a course |
+| Leo, KIU student who looks for free courses | Usability session 5 | Instagram or Discord message | NTS, Mon 23 Nov | Not yet (23 Nov, 21:10) |
 
 **What we tell them:** "This is the course list we tested. Use it whenever you're looking for a free course; it's a compact space for motivated students like you. It's a student project; we count clicks, never names."
 
@@ -84,3 +84,5 @@ Written before the week starts. Never edited afterwards; Lab 8 reads it as writt
 **We are wrong if:** fewer than 3 `student_opens_signup_page` events from real people between 23 Nov and Lab 8.
 
 **Mid-week look:** NTS opens the public dashboard every Monday and GTS every Wednesday, and each writes one line here: what the counts are and one thing we change because of them, or nothing.
+
+- Mon 23 Nov · NTS · within 20 minutes of the link going out: 3 of 5 opened (Gaga, Anushki, Nini); 1 `student_opens_signup_page` from a real person since 23 Nov (Anushki, EPAM DA&QE), 1 real share (first one; the funnel's share step was 0 before); one new person (`3f197785`) came in from Instagram 40 s after Anushki's tap, not counted as a tester. All three returns today came right after our message, so they do not yet show step 5 on its own. Change: nothing yet.
