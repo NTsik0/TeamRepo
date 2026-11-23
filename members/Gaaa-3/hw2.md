@@ -9,7 +9,7 @@
 
 **Least sure works:** the "New" label. No course was added between my two visits, so the label never appeared and I have not seen that path work end to end. I will know by Lab 8: add one course in Neon between two visits to the list on the same phone, then check that `student_returns_to_course_list` fires with `new_since_last_visit > 0` in PostHog and that the "New" label shows on the second load.
 
-**Beyond my assigned story:** I resolved the merge conflict on `03-build/sprints/sprint-2.md` myself — kept both NTS's Monday line and my walk line, rather than asking NTS to do it ([1c3ebf6](https://github.com/NTsik0/TeamRepo/commit/1c3ebf6)).
+**Beyond my assigned story:** I resolved the merge conflict on `03-build/sprints/sprint-2.md` myself — kept both NTS's Monday line and my walk line ([1c3ebf6](https://github.com/NTsik0/TeamRepo/commit/1c3ebf6)).
 
 ## 2. Pattern journal, Weeks 5–7 (written after the fact)
 
@@ -25,4 +25,4 @@
 
 ## 4. Field-week person
 
-Leo, KIU student who looks for free courses (code name Leo, usability session 5). The link reached him through NTS's Instagram/Discord message on Mon 23 Nov, the same message that went to the other four testers. As of 23 Nov 21:10 his "Opened?" cell in `sprint-2.md` is "Not yet", so the link has reached him but he has not opened it; I followed up with him on 23 Nov to ask whether he had seen it. I will fill his "Opened?" cell with his answer before Lab 8.
+Leo, KIU student who looks for free courses (usability session 5). I am the reviewer on F1, so this is read from the record rather than from a message I sent: the production link reached Leo through NTS's Instagram or Discord message on Mon 23 Nov, sent with the other four testers. As of 23 Nov 21:10 his "Opened?" cell in `sprint-2.md` is "Not yet" — the link has reached him and he has not opened it. I will read his status from PostHog and fill that cell before Lab 8, and I will flag to NTS if it is still empty on Wednesday's dashboard look.
