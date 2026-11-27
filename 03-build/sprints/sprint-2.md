@@ -87,3 +87,4 @@ Written before the week starts. Never edited afterwards; Lab 8 reads it as writt
 
 - Mon 23 Nov · NTS · within 20 minutes of the link going out: 3 of 5 opened (Gaga, Anushki, Nini); 1 `student_opens_signup_page` from a real person since 23 Nov (Anushki, EPAM DA&QE), 1 real share (first one; the funnel's share step was 0 before); one new person (`3f197785`) came in from Instagram 40 s after Anushki's tap, not counted as a tester. All three returns today came right after our message, so they do not yet show step 5 on its own. Change: nothing yet.
 - 2026-11-23 20:05 · GTS walked all five steps on a phone (Chrome, NTS hotspot, plain URL). 21 = 21 on the reconcile (PostHog = signup_clicks, 8–23 Nov). Nothing to change: the pipeline matches.
+- Fri 27 Nov · GTS · [X] signup_clicks; [Y] opened · Change: [insert one thing to change, or "nothing"]
