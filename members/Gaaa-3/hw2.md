@@ -5,7 +5,7 @@
 | What | Story or rung | Commit link | Live? | Walked or checked by |
 |---|---|---|---|---|
 | Walked all 5 steps of the MVP on my phone — 23 Nov 2026, 20:05, Chrome, on NTS's hotspot, plain URL (no `?src=`): list, course card, "Go to sign-up", share, return. | R1 · walked on phone | [9de45db](https://github.com/NTsik0/TeamRepo/commit/9de45db) | Yes — all five events Live in PostHog, north star firing from production | GTS walked; NTS read each event in PostHog Activity aloud |
-| Wednesday dashboard look — counts on the public dashboard and one thing to change, or nothing. | F2 · dashboard look | [pending 25 Nov commit] | — | GTS |
+| Wednesday dashboard look — counts on the public dashboard and one thing to change, or nothing. | F2 · dashboard look | [f28dfb6](https://github.com/NTsik0/TeamRepo/commit/f28dfb6d6a3edb393829655b164e3f30ee5df2c0) | — | GTS |
 
 **Least sure works:** the "New" label. No course was added between my two visits, so the label never appeared and I have not seen that path work end to end. I will know by Lab 8: add one course in Neon between two visits to the list on the same phone, then check that `student_returns_to_course_list` fires with `new_since_last_visit > 0` in PostHog and that the "New" label shows on the second load.
 
